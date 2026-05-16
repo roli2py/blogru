@@ -2,9 +2,9 @@ title: ролитупайщик
 email: romanmashevskyi@proton.me
 description: >-
   Здесь я рассказываю про события из жизни и размышляю про всякое. Считайте, что это публично-личный дневник :)
-domain: "ru.blog.roli2py.me"
-url: "https://ru.blog.roli2py.me"
-baseurl: ""
+domain: "roli2py.github.io"
+url: "https://roli2py.github.io"
+baseurl: "/blogru"
 github_username: roli2py
 
 theme: minima
